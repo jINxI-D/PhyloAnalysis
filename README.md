@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-If you have any questions or feedback, please contact [Your Name] at [your.email@example.com].
+If you have any questions or feedback, please contact Jinxi at jinxi001@e.ntu.edu.sg.
 
 ## Acknowledgments
 
